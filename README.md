@@ -9,7 +9,7 @@ layout sederhana
 
 
 
-kemudian menambahkan CSS
+2. kemudian menambahkan CSS
 
 ![1.1.png](gambar/1.1.png)
 
@@ -19,3 +19,13 @@ kemudian menambahkan CSS
 
 ![1.4.png](gambar/1.4.png)
 
+![1.5.png](gambar/1.5.png)
+
+![1.6.png](gambar/1.6.png)
+
+![1.7.png](gambar/1.7.png)
+
+
+3. Hasil
+
+![1.8.png](gambar/1.8.png)
